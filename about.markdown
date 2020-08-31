@@ -4,15 +4,12 @@ title: About
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+IAMF or *I Am Fullstack* or (*I Am ~~Mother Fucker~~* if you prefer) is a medium for sharing knowledge on software engineering currently owned and managed
+by Victor Nwaokocha. 
 
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
+It's a regular blog that aims to evolve into a platform where people can get course on 
+fullstack development of web mobile or cloud. 
 
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
+The post on this blog could be a tutorial, an opinion piece or thought experiments.
 
-
-[jekyll-organization]: https://github.com/jekyll
+IAMF is home to curious minds who love to thinker make mistakes and learn.
