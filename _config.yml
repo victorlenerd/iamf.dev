@@ -18,7 +18,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: I Am Fullstack
+title: I am full-stack
 email: victor@iamf.dev
 description: >- # this means to ignore newlines until "baseurl:"
   I am fullstack. musings on software engineering as a discipline, an exploration of
